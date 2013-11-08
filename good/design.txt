@@ -4,3 +4,5 @@ it must succeed this time
 i am very happy
 it's a new day
 i hope the fork can be conducted smoothly
+test git add 
+
