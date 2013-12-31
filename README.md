@@ -10,4 +10,5 @@ the second changes
 the second pull request
 test git add filename filename
 test amend command
-
+test reset
+test rm
