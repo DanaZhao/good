@@ -1,0 +1,3 @@
+add a new file
+the second changes
+test git add file file
