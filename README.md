@@ -12,3 +12,4 @@ test git add filename filename
 test amend command
 test reset
 test rm
+retry applying patch with -i
